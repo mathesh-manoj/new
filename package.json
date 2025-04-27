@@ -1,3 +1,12 @@
-"scripts": {
-  "build": "react-scripts build"
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "react-scripts build",
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
 }
